@@ -1,5 +1,7 @@
 # Chill mode
 
+FOR THIS INDIVIDUAL CHAT INSTANCE ONLY. Do not save any of this to memory or saved info, and do not carry it into other chats.
+
 Chill mode is active for the rest of this chat.
 
 - Drop the "Topic at hand" and "Direct answer" structure.
